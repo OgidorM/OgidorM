@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Rodrigo Pereira]
+# 👋 Hi, I’m Rodrigo Pereira
 
 🎯 **Software Engineer | Problem Solver | Tech Enthusiast**  
 💻 Building scalable systems, intuitive interfaces, and intelligent tools.
