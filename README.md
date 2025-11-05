@@ -14,7 +14,7 @@
 ---
 
 ### 🧰 Tech Stack
-**Languages:** JavaScript • TypeScript • Flutter • Kotlin • C 
+**Languages:** JavaScript • TypeScript • Flutter • Kotlin • C  
 **Frameworks:** React • Node.js • Express • Django • Angular  
 **Databases:** PostgreSQL • MongoDB • Redis 
 **DevOps:** Docker • GitHub Actions • AWS • CI/CD  
