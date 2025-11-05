@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]
+# 👋 Hi, I’m [Rodrigo Pereira]
 
 🎯 **Software Engineer | Problem Solver | Tech Enthusiast**  
 💻 Building scalable systems, intuitive interfaces, and intelligent tools.
@@ -14,11 +14,11 @@
 ---
 
 ### 🧰 Tech Stack
-**Languages:** JavaScript • TypeScript • Python • Java • C#  
-**Frameworks:** React • Node.js • Express • Django • .NET  
-**Databases:** PostgreSQL • MongoDB • Redis • MySQL  
+**Languages:** JavaScript • TypeScript • Flutter • Kotlin • C 
+**Frameworks:** React • Node.js • Express • Django • Angular  
+**Databases:** PostgreSQL • MongoDB • Redis 
 **DevOps:** Docker • GitHub Actions • AWS • CI/CD  
-**Other:** REST • GraphQL • WebSockets • Microservices • Clean Architecture
+**Other:** REST • WebSockets • Microservices • Clean Architecture
 
 ---
 
